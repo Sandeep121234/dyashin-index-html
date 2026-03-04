@@ -1,0 +1,19 @@
+body {
+  min-height: 100vh;
+}
+
+.stats-box {
+  border: 1px solid #dee2e6;
+  border-radius: 0.75rem;
+  padding: 1rem;
+  background: #fff;
+}
+
+.priority-badge {
+  font-size: 0.85rem;
+}
+
+.status-note {
+  font-size: 0.85rem;
+  font-style: italic;
+}
